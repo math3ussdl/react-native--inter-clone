@@ -1,7 +1,8 @@
 {
   "name": "interclone",
   "version": "0.0.1",
-  "private": true,
+  "license": "MIT",
+  "private": false,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
